@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vikkkyvignesh/React-Todo/static/css/main.eadce8b5.chunk.css",
+    "main.js": "/vikkkyvignesh/React-Todo/static/js/main.00f60982.chunk.js",
+    "main.js.map": "/vikkkyvignesh/React-Todo/static/js/main.00f60982.chunk.js.map",
+    "runtime-main.js": "/vikkkyvignesh/React-Todo/static/js/runtime-main.ec769f62.js",
+    "runtime-main.js.map": "/vikkkyvignesh/React-Todo/static/js/runtime-main.ec769f62.js.map",
+    "static/js/2.7f41b09f.chunk.js": "/vikkkyvignesh/React-Todo/static/js/2.7f41b09f.chunk.js",
+    "static/js/2.7f41b09f.chunk.js.map": "/vikkkyvignesh/React-Todo/static/js/2.7f41b09f.chunk.js.map",
+    "index.html": "/vikkkyvignesh/React-Todo/index.html",
+    "precache-manifest.fabbc6866f44eaff3d9aaaf33ab0a8e7.js": "/vikkkyvignesh/React-Todo/precache-manifest.fabbc6866f44eaff3d9aaaf33ab0a8e7.js",
+    "service-worker.js": "/vikkkyvignesh/React-Todo/service-worker.js",
+    "static/css/main.eadce8b5.chunk.css.map": "/vikkkyvignesh/React-Todo/static/css/main.eadce8b5.chunk.css.map",
+    "static/js/2.7f41b09f.chunk.js.LICENSE.txt": "/vikkkyvignesh/React-Todo/static/js/2.7f41b09f.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/vikkkyvignesh/React-Todo/static/media/logo.d7a8c2fd.png",
+    "static/media/App.css": "/vikkkyvignesh/React-Todo/static/media/neon.c21e9db6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec769f62.js",
+    "static/js/2.7f41b09f.chunk.js",
+    "static/css/main.eadce8b5.chunk.css",
+    "static/js/main.00f60982.chunk.js"
+  ]
+}
